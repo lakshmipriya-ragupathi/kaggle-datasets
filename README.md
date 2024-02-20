@@ -46,9 +46,9 @@ I started off with Logistic Regression and struggled my way in SVM, ended up lea
 
 ## Exploratory Data Analysis
 
-_eda-on-dollar-price-dialy.ipynb_
+_hate-speech-detection.ipynb_ : An EDA on Sentiment Dataset
 
-An EDA on Time Series Dataset
+_eda-on-dollar-price-dialy.ipynb_ : An EDA on Time Series Dataset
 
 dataset link: https://www.kaggle.com/datasets/raoofiali/ohlc-dollar-daily-price
 
